@@ -7,7 +7,7 @@
 3. Dhani Gupta -> Researching
 4. Harshit Krishna Verma -> Monitoring
 5. Ishita Kumari -> Monitoring
-6. Ankit sharaswat -> Deployment
+6. Ankit Saraswat -> Deployment
 -------------------------------------------
 |            ~--Deffensive--~             |
 -------------------------------------------
