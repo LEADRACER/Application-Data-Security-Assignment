@@ -49,5 +49,3 @@ Only run offensive code in isolated labs with written permission. No source code
 * Detection timeline and artifacts (sanitized)
 * Analysis summary and remediation steps
 * Ethics statement
-
-## Extras
