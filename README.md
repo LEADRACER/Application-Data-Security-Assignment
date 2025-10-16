@@ -51,5 +51,3 @@ Only run offensive code in isolated labs with written permission. No source code
 * Ethics statement
 
 ## Extras
-
-I can generate a sanitized incident report, mock log excerpts, or a safe checklist for lab setup. Which would you like?
