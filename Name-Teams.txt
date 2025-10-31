@@ -15,6 +15,6 @@
 2. Tarun Singh -> Detection
 3. Yatin Gupta -> Static Analysis
 4. Ipshita Patel -> Firewall Analysing
-5. Tejashwini Dixit -> Incident Responder
+5. Tejaswini Dixit -> Incident Responder
 6. Dhruv Saxena -> Researching
 ==========================================
